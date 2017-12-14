@@ -23,8 +23,9 @@ for signal in $@; do
     echo "$signal ==> $signal.signal.txt"
     python modules/tools/map_gen/add_signal.py base_map.txt $signal.signal.txt
     mv "base_map.txt_${signal}.signal.txt" base_map.txt
-
 done
 cp base_map.txt $map_dir/
 cp base_map.txt $map_dir/sim_map.txt
+bash scripts/generate_routing_topo_graph.sh --map_dir=$map_dir
+
 echo "Created map in $map_dir/"
