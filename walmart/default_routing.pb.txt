@@ -1,0 +1,268 @@
+header {
+  timestamp_sec: 1513288577.64
+  module_name: "routing"
+  sequence_num: 1
+}
+road {
+  id: "road"
+  passage {
+    segment {
+      id: "lane_0_1"
+      start_s: 3.91726571592
+      end_s: 100.080479046
+    }
+    segment {
+      id: "lane_1_1"
+      start_s: 0.0
+      end_s: 100.238913397
+    }
+    segment {
+      id: "lane_2_1"
+      start_s: 0.0
+      end_s: 52.9075958116
+    }
+    segment {
+      id: "lane_3_1"
+      start_s: 0.0
+      end_s: 100.111813337
+    }
+    segment {
+      id: "lane_4_1"
+      start_s: 0.0
+      end_s: 100.249934725
+    }
+    segment {
+      id: "lane_5_1"
+      start_s: 0.0
+      end_s: 100.018221851
+    }
+    segment {
+      id: "lane_6_1"
+      start_s: 0.0
+      end_s: 100.233289245
+    }
+    segment {
+      id: "lane_7_1"
+      start_s: 0.0
+      end_s: 100.22031037
+    }
+    segment {
+      id: "lane_8_1"
+      start_s: 0.0
+      end_s: 100.279235944
+    }
+    segment {
+      id: "lane_9_1"
+      start_s: 0.0
+      end_s: 100.084758031
+    }
+    segment {
+      id: "lane_10_1"
+      start_s: 0.0
+      end_s: 44.5582588484
+    }
+    segment {
+      id: "lane_11_1"
+      start_s: 0.0
+      end_s: 99.2599291914
+    }
+    segment {
+      id: "lane_12_1"
+      start_s: 0.0
+      end_s: 31.0857248566
+    }
+    change_lane_type: LEFT
+  }
+  passage {
+    segment {
+      id: "lane_0_0"
+      start_s: 0.0
+      end_s: 100.101119633
+    }
+    segment {
+      id: "lane_1_0"
+      start_s: 0.0
+      end_s: 100.237732004
+    }
+    segment {
+      id: "lane_2_0"
+      start_s: 0.0
+      end_s: 100.033179079
+    }
+    segment {
+      id: "lane_3_0"
+      start_s: 0.0
+      end_s: 100.022919077
+    }
+    segment {
+      id: "lane_4_0"
+      start_s: 0.0
+      end_s: 100.292374467
+    }
+    segment {
+      id: "lane_5_0"
+      start_s: 0.0
+      end_s: 100.034197957
+    }
+    segment {
+      id: "lane_6_0"
+      start_s: 0.0
+      end_s: 100.243889818
+    }
+    segment {
+      id: "lane_7_0"
+      start_s: 0.0
+      end_s: 100.198511401
+    }
+    segment {
+      id: "lane_8_0"
+      start_s: 0.0
+      end_s: 100.28877018
+    }
+    segment {
+      id: "lane_9_0"
+      start_s: 0.0
+      end_s: 100.077319662
+    }
+    segment {
+      id: "lane_10_0"
+      start_s: 0.0
+      end_s: 44.5301321855
+    }
+    segment {
+      id: "lane_11_0"
+      start_s: 0.0
+      end_s: 100.211512359
+    }
+    segment {
+      id: "lane_12_0"
+      start_s: 0.0
+      end_s: 31.9380058152
+    }
+    change_lane_type: RIGHT
+  }
+  passage {
+    segment {
+      id: "lane_0_1"
+      start_s: 0.0
+      end_s: 100.080479046
+    }
+    segment {
+      id: "lane_1_1"
+      start_s: 0.0
+      end_s: 100.238913397
+    }
+    segment {
+      id: "lane_2_1"
+      start_s: 0.0
+      end_s: 100.00467188
+    }
+    segment {
+      id: "lane_3_1"
+      start_s: 0.0
+      end_s: 100.111813337
+    }
+    segment {
+      id: "lane_4_1"
+      start_s: 0.0
+      end_s: 100.249934725
+    }
+    segment {
+      id: "lane_5_1"
+      start_s: 0.0
+      end_s: 100.018221851
+    }
+    segment {
+      id: "lane_6_1"
+      start_s: 0.0
+      end_s: 100.233289245
+    }
+    segment {
+      id: "lane_7_1"
+      start_s: 0.0
+      end_s: 100.22031037
+    }
+    segment {
+      id: "lane_8_1"
+      start_s: 0.0
+      end_s: 100.279235944
+    }
+    segment {
+      id: "lane_9_1"
+      start_s: 0.0
+      end_s: 100.084758031
+    }
+    segment {
+      id: "lane_10_1"
+      start_s: 0.0
+      end_s: 100.180933495
+    }
+    segment {
+      id: "lane_11_1"
+      start_s: 0.0
+      end_s: 99.2599291914
+    }
+    segment {
+      id: "lane_12_1"
+      start_s: 0.0
+      end_s: 31.0857248566
+    }
+    can_exit: true
+    change_lane_type: FORWARD
+  }
+}
+measurement {
+  distance: 1177.33463677
+}
+routing_request {
+  header {
+    timestamp_sec: 1513288577.63
+    module_name: "dreamview"
+    sequence_num: 3
+  }
+  waypoint {
+    id: "lane_0_1"
+    s: 3.91726571592
+    pose {
+      x: 799144.592166
+      y: 4503512.75645
+    }
+  }
+  waypoint {
+    id: "lane_2_0"
+    s: 96.4789792867
+    pose {
+      x: 799436.280567
+      y: 4503539.80814
+    }
+  }
+  waypoint {
+    id: "lane_3_0"
+    s: 48.9419542817
+    pose {
+      x: 799488.580197
+      y: 4503544.35596
+    }
+  }
+  waypoint {
+    id: "lane_10_1"
+    s: 52.9908472379
+    pose {
+      x: 800191.609263
+      y: 4503598.53775
+    }
+  }
+  waypoint {
+    id: "lane_12_1"
+    s: 31.0857248566
+    pose {
+      x: 800367.799605
+      y: 4503598.38098
+    }
+  }
+}
+map_version: "1.400000"
+status {
+  error_code: OK
+  msg: "Success!"
+}
