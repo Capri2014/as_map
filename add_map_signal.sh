@@ -26,6 +26,5 @@ for signal in $@; do
 
 done
 cp base_map.txt $map_dir/
-cp base_map.txt $map_dir/routing_map.txt
 cp base_map.txt $map_dir/sim_map.txt
 echo "Created map in $map_dir/"
