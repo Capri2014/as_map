@@ -1,0 +1,93 @@
+header {
+  timestamp_sec: 1513288725.49
+  module_name: "routing"
+  sequence_num: 1
+}
+road {
+  id: "road"
+  passage {
+    segment {
+      id: "lane_0_0"
+      start_s: 3.75459902925
+      end_s: 100.015465603
+    }
+    segment {
+      id: "lane_1_0"
+      start_s: 0.0
+      end_s: 100.051937131
+    }
+    segment {
+      id: "lane_2_0"
+      start_s: 0.0
+      end_s: 100.038140508
+    }
+    segment {
+      id: "lane_3_0"
+      start_s: 0.0
+      end_s: 100.048472163
+    }
+    segment {
+      id: "lane_4_0"
+      start_s: 0.0
+      end_s: 100.136376584
+    }
+    segment {
+      id: "lane_5_0"
+      start_s: 0.0
+      end_s: 100.056139319
+    }
+    segment {
+      id: "lane_6_0"
+      start_s: 0.0
+      end_s: 100.108867101
+    }
+    segment {
+      id: "lane_7_0"
+      start_s: 0.0
+      end_s: 100.164002064
+    }
+    segment {
+      id: "lane_8_0"
+      start_s: 0.0
+      end_s: 100.151586322
+    }
+    segment {
+      id: "lane_9_0"
+      start_s: 0.0
+      end_s: 6.5652836933
+    }
+    can_exit: true
+    change_lane_type: FORWARD
+  }
+}
+measurement {
+  distance: 903.581671459
+}
+routing_request {
+  header {
+    timestamp_sec: 1513288725.48
+    module_name: "dreamview"
+    sequence_num: 1
+  }
+  waypoint {
+    id: "lane_0_0"
+    s: 3.75459902925
+    pose {
+      x: 799053.224713
+      y: 4500997.81963
+    }
+  }
+  waypoint {
+    id: "lane_9_0"
+    s: 6.5652836933
+    pose {
+      x: 799501.689868
+      y: 4501781.73361
+    }
+  }
+}
+map_version: "1.400000"
+status {
+  error_code: OK
+  msg: "Success!"
+}
