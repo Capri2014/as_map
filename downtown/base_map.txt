@@ -4967,7 +4967,7 @@ lane {
     }
   }
   length: 100.015465603
-  speed_limit: 29.06
+  speed_limit: 11.18
   successor_id {
     id: "lane_1_0"
   }
@@ -12682,7 +12682,7 @@ lane {
     }
   }
   length: 100.051937131
-  speed_limit: 29.06
+  speed_limit: 11.18
   predecessor_id {
     id: "lane_0_0"
   }
@@ -19940,7 +19940,7 @@ lane {
     }
   }
   length: 100.038140508
-  speed_limit: 29.06
+  speed_limit: 11.18
   predecessor_id {
     id: "lane_1_0"
   }
@@ -27522,7 +27522,7 @@ lane {
     }
   }
   length: 100.048472163
-  speed_limit: 29.06
+  speed_limit: 11.18
   predecessor_id {
     id: "lane_2_0"
   }
@@ -35896,7 +35896,7 @@ lane {
     }
   }
   length: 100.136376584
-  speed_limit: 29.06
+  speed_limit: 11.18
   predecessor_id {
     id: "lane_3_0"
   }
@@ -44514,7 +44514,7 @@ lane {
     }
   }
   length: 100.056139319
-  speed_limit: 29.06
+  speed_limit: 11.18
   overlap_id {
     id: "lane_5_0_799339.26906_4501505.42114"
   }
@@ -52823,7 +52823,7 @@ lane {
     }
   }
   length: 100.108867101
-  speed_limit: 29.06
+  speed_limit: 11.18
   predecessor_id {
     id: "lane_5_0"
   }
@@ -60729,7 +60729,7 @@ lane {
     }
   }
   length: 100.164002064
-  speed_limit: 29.06
+  speed_limit: 11.18
   predecessor_id {
     id: "lane_6_0"
   }
@@ -68619,7 +68619,7 @@ lane {
     }
   }
   length: 100.151586322
-  speed_limit: 29.06
+  speed_limit: 11.18
   predecessor_id {
     id: "lane_7_0"
   }
@@ -73065,7 +73065,7 @@ lane {
     }
   }
   length: 22.485777556
-  speed_limit: 29.06
+  speed_limit: 11.18
   predecessor_id {
     id: "lane_8_0"
   }

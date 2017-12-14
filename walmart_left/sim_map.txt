@@ -4883,7 +4883,7 @@ lane {
     }
   }
   length: 100.127996394
-  speed_limit: 29.06
+  speed_limit: 17.88
   successor_id {
     id: "lane_1_0"
   }
@@ -12638,7 +12638,7 @@ lane {
     }
   }
   length: 100.079979708
-  speed_limit: 29.06
+  speed_limit: 17.88
   predecessor_id {
     id: "lane_0_0"
   }
@@ -20764,7 +20764,7 @@ lane {
     }
   }
   length: 100.090842004
-  speed_limit: 29.06
+  speed_limit: 17.88
   predecessor_id {
     id: "lane_1_0"
   }
@@ -29278,7 +29278,7 @@ lane {
     }
   }
   length: 100.108122516
-  speed_limit: 29.06
+  speed_limit: 17.88
   overlap_id {
     id: "lane_3_0_799443.42970_4503546.29589"
   }
@@ -35159,7 +35159,7 @@ lane {
     }
   }
   length: 53.4913355482
-  speed_limit: 29.06
+  speed_limit: 17.88
   predecessor_id {
     id: "lane_3_0"
   }
