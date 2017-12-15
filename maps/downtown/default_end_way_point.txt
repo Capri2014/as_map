@@ -1,0 +1,15 @@
+landmark {
+    name: "End of Road"
+    waypoint {
+        pose {
+            x: 799482.80
+            y: 4501753.42
+        }
+    }
+    waypoint {
+        pose {
+            x: 799051.01
+            y: 4500994.59
+        }
+    }
+}

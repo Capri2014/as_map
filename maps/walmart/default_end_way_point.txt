@@ -1,0 +1,33 @@
+landmark {
+    name: "change_left_then_right",
+  waypoint {
+    pose {
+      x: 799142.901006
+      y: 4503513.00535
+    }
+  }
+  waypoint {
+    pose {
+      x: 799429.649141
+      y: 4503539.4275
+    }
+  }
+  waypoint {
+    pose {
+      x: 799555.028193
+      y: 4503550.25077
+    }
+  }
+  waypoint {
+    pose {
+      x: 800153.970495
+      y: 4503595.88633
+    }
+  }
+  waypoint {
+    pose {
+      x: 800340.457499
+      y: 4503606.36709
+    }
+  }
+}
