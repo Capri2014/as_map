@@ -25,7 +25,7 @@ for signal in $@; do
     mv "base_map.txt_${signal}.signal.txt" base_map.txt
 done
 cp base_map.txt $map_dir/
-cp base_map.txt $map_dir/sim_map.txt
+ ./bazel-bin/modules/map/tools/sim_map_generator --map_dir=$map_dir  --output_dir=$map_dir
 bash scripts/generate_routing_topo_graph.sh --map_dir=$map_dir
 
 echo "Created map in $map_dir/"
