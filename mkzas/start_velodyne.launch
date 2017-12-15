@@ -9,7 +9,7 @@
     <arg name="max_range_64" default="70.0" />
     <arg name="rpm" default="600"/>
     <!-- 64E_S3D_STRONGEST | 64E_S3D_LATEST | 64E_S3D_DUAL -->
-    <arg name="model" default="64E_S3D_STRONGEST" />
+    <arg name="model" default="64E_S2" />
     <!-- beijing    UTC+8:00 -->
     <!-- california UTC-8:00 -->
     <!-- 100ms -->
