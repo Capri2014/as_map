@@ -1,0 +1,51 @@
+header {
+  timestamp_sec: 1513796540.03
+  module_name: "drive_event"
+  sequence_num: 3
+  version: 1
+}
+event: "walmart two lane stop 1"
+location {
+  position {
+    x: 799439.807092
+    y: 4503540.13905
+    z: 184.24131943
+  }
+  orientation {
+    qx: -0.00714467512623
+    qy: 0.00408741730048
+    qz: -0.686057716918
+    qw: 0.727500553742
+  }
+  linear_velocity {
+    x: -0.0247745891532
+    y: -0.00819592474427
+    z: -0.00761246663068
+  }
+  linear_acceleration {
+    x: -0.0895950490709
+    y: 0.0222338581159
+    z: -0.385059136233
+  }
+  angular_velocity {
+    x: -0.000392810470169
+    y: -0.000897486712146
+    z: -2.22129238107e-05
+  }
+  heading: 0.058588537457
+  linear_acceleration_vrf {
+    x: -0.0289320202686
+    y: -0.0819656730521
+    z: -0.386311690615
+  }
+  angular_velocity_vrf {
+    x: 0.000872826167773
+    y: -0.000444276390035
+    z: -3.26932415993e-05
+  }
+  euler_angles {
+    x: -0.00385662579213
+    y: 0.0160046018309
+    z: 0.058588537457
+  }
+}
