@@ -1237,9 +1237,6 @@ lane {
   }
   length: 100.0
   speed_limit: 20.0
-  predecessor_id {
-    id: "0"
-  }
   successor_id {
     id: "2"
   }
@@ -8982,9 +8979,6 @@ lane {
   speed_limit: 20.0
   predecessor_id {
     id: "4"
-  }
-  successor_id {
-    id: "6"
   }
   type: CITY_DRIVING
   turn: NO_TURN
